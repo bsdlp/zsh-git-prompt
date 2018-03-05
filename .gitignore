@@ -1,3 +1,2 @@
-# comment for .gitignore
-
 *.un~
+src/.bin
