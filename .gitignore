@@ -1,2 +1,3 @@
 *.un~
 src/.bin
+.stack-work/
